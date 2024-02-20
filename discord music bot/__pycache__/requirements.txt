@@ -1,0 +1,14 @@
+
+you need to to download next dependecies for correct bot working
+|
+you need to  download ffmpeg file and set it in your windows environment variables 
+|
+type this:pip install youtubedl
+          pip install discord.py
+          pip install PyNaCl
+    
+
+Remember that you need to have your token setup in your environment variables as well and 
+it should be under TOKEN. On windows you can do this by running SET TOKEN=<you_token_here>
+Token you'll able to find in discord development portal on official website in AuthO2 section of your bot
+
